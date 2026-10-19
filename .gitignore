@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.html
+.env
+plane.json
+newsletter.py
